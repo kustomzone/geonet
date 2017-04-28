@@ -1,0 +1,30 @@
+geonet
+node.conf
+
+# OS-created garbage files from various platforms
+.DS_Store
+.Apple*
+Thumbs.db
+@eaDir
+
+# Miscellaneous temporaries, build files, etc.
+*.log
+*.opensdf
+*.user
+*.cache
+*.obj
+*.tlog
+*.pid
+*.pkg
+*.o
+/*.a
+*.dylib
+*.so
+*.so.*
+*.o-*
+*.core
+*.deb
+*.rpm
+*.autosave
+*.tmp
+.depend
