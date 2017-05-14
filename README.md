@@ -1,5 +1,5 @@
 # geonet
-a distributed selective-proxy network, enabling users to be wherever services require them to be
+a distributed selective-proxy network, enabling users to be wherever services require them to be (WIP)
 
 ## Building
     make [-j <cores>]
